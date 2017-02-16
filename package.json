@@ -1,15 +1,15 @@
 {
-  "name": "emma-sdk",
+  "name": "ust-emma-sdk",
   "version": "0.0.3",
   "description": "A Node.js client for the Emma API",
   "main": "./lib/emma",
   "author": {
-    "name": "Nathan Peck",
-    "email": "nathan@storydesk.com"
+    "name": "Usterix",
+    "email": "william@usterix.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nathanpeck/emma-sdk.git"
+    "url": "git://github.com/Usterix/emma-sdk"
   },
   "dependencies": {
     "request": "2.44.0"
